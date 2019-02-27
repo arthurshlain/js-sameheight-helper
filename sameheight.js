@@ -24,10 +24,3 @@ function sameHeight() {
         sameHeightDivs.height(maxHeight);
     });
 }
-
-jQuery(function ($) {
-  sameHeight();
-  window.addEventListener('resize', function(){
-      sameHeight();
-  }, true);
-});
