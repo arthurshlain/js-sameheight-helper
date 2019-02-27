@@ -2,6 +2,10 @@
 
 This script allows you to create equals height columns.
 
+## Demo
+
+https://codepen.io/ArtZ91/pen/moJOex
+
 ## How to use
 
 Add class `.same-height-group` to wrapper of elements (row).
