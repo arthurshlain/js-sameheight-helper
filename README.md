@@ -18,7 +18,7 @@ Add class `.same-height-heading` to each heading elements (h1, h2, h3...).
 
 Use method `sameHeight()` to update height of elements.
 
-Use `resize` event:
+To update height on window resize use `resize` event:
 
 ```js
 window.addEventListener('resize', function(){
