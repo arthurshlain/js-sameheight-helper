@@ -4,7 +4,7 @@ This script make equal height for your columns.
 
 ## Demo
 
-https://codepen.io/ArtZ91/pen/moJOex
+https://codepen.io/ArtZ91/pen/XWbMBVB
 
 ## How to use
 
