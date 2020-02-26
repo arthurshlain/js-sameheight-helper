@@ -47,4 +47,14 @@ window.addEventListener('resize', function(){
     <p>Third column</p>
   </div>
 </div>
+
+<script>
+    jQuery(function(){
+        sameHeight();
+    
+        window.addEventListener('resize', function(){
+            sameHeight();
+        }, true);
+    });
+</script>
 ```
