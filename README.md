@@ -1,4 +1,4 @@
-# jQuery-SameHeight
+# js-same-height-helper
 
 This script make equal height for your columns.
 
@@ -49,12 +49,12 @@ window.addEventListener('resize', function(){
 </div>
 
 <script>
-    jQuery(function(){
-        sameHeight();
-    
-        window.addEventListener('resize', function(){
-            sameHeight();
-        }, true);
+    document.addEventListener('DOMContentLoaded', function(){
+      sameHeight();
     });
+
+    window.addEventListener('resize', function(){
+        sameHeight();
+    }, true);    
 </script>
 ```
