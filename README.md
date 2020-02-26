@@ -1,4 +1,4 @@
-# js-same-height-helper
+# js-sameheight-helper
 
 This script make equal height for your columns.
 
