@@ -8,9 +8,9 @@ Add class `.same-height-group` to wrapper of elements (row).
 
 Add class `.same-height` to each element (columns).
 
-Add class `.same-height-group-heading` to wrapper of heading elements (row).
+(optional) Add class `.same-height-group-heading` to wrapper of heading elements (row).
 
-Add class `.same-height-heading` to each heading elements (h1, h2, h3...).
+(optional) Add class `.same-height-heading` to each heading elements (h1, h2, h3...).
 
 Use method `sameHeight` to update height of elements.
 
