@@ -2,10 +2,6 @@
 
 This script make equal height for your columns.
 
-## Demo
-
-https://codepen.io/ArtZ91/pen/XWbMBVB
-
 ## How to use
 
 Add class `.same-height-group` to wrapper of elements (row).
