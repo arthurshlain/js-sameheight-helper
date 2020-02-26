@@ -1,6 +1,6 @@
 # jQuery-SameHeight
 
-This script allows you to create equals height columns.
+This script make equal height for your columns.
 
 ## Demo
 
